@@ -1,1 +1,2 @@
+Goal: to simulate a movie rental/purchase software. Input a text file then create a catalog of movies to choose from. The user will choose from a few options, to insert a title to sell, to select a movie to rent, or to purchase a movie. This will add any items to the shopping cart and calulate a total owed. Then select shipping method. Calculate the shipping cost using graphs. Choose a location for pickup: initial location will be the movie store, final location will be chosen by the user. 
 # Motazedi_CSCI2270_FinalProject
